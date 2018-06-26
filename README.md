@@ -13,10 +13,15 @@ Things you may want to cover:
  To Create New Rails App
  -----------------
  1.rails new my-app -d databasename --webpack=react
+
  2.Add gem gem 'react_on_rails', to use react_on_rails - ES6
+
  3.bundle install
+
  4.Commit the code to git unless we cannot run generator or we need to use command  option --ignore-warnings alogn with generater.
+
  5.rails generate react_on_rails:install
+
  6.rails s
 
 
